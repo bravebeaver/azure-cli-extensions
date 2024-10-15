@@ -12,5 +12,6 @@
     "failSwapOn": false,
     "containerLogMaxFiles": 10,
     "podMaxPids": 120,
-    "containerLogMaxSizeMB": 20
+    "containerLogMaxSizeMB": 20,
+    "seccompDefault": "Unconfined"
 }
